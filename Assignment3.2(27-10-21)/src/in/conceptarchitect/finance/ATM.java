@@ -71,7 +71,7 @@ public class ATM {
 //
 //			 case 2:
 //			
-//			BA.withdraw(10000, "shivam@");
+//			BA.withdraw(10000, "sudhakar@");
 //
 //			break;
 //			
